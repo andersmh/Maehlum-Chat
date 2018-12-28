@@ -1,5 +1,6 @@
 # Mæhlum Chat
-A simple group chat application
+A simple group chat application using MySQL.
+
 
 <img width="1635" alt="1" src="https://user-images.githubusercontent.com/31239471/50516257-18e6ae80-0aaa-11e9-91c8-612a89018058.png">
 
