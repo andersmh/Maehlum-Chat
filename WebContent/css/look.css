@@ -1,0 +1,64 @@
+html {
+	background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+	font-family: 'Work Sans', sans-serif;
+}
+
+input {
+	background: rgba(255, 255, 255, 0.4);
+	border: none;
+	font-family: 'Work Sans', sans-serif;
+	outline: none;
+	width: 250px;
+	height: 30p;
+	top: 250px;
+	padding: 10px;
+	color: #333;
+	padding: 10px;
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	color: green;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	color: hotpink;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+	color: blue;
+	text-decoration: none;
+}
+
+#messages {
+  height: 200px;
+  overflow-y: auto;
+}
+
+
+/*
+input {
+	background: rgba(255, 255, 255, 0.4);
+	border: none;
+	font-family: 'Work Sans', sans-serif;
+	outline: none;
+	width: 250px;
+	height: 30p;
+	top: 250px;
+	margin: 0 auto;
+	padding: 10px;
+	color: #333;
+}
+*/
